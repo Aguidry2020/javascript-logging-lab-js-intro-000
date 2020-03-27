@@ -1,3 +1,3 @@
-console.console.error('help me!');
-console.console.log('wooden logging')
-console.warn('danger')
+console.error('help me!');
+console.log('wooden logging');
+console.warn('danger');
