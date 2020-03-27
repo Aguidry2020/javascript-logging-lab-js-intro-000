@@ -1,2 +1,3 @@
 console.console.error('help me!');
-console.console.log('log log');
+console.console.log('peanut logs');
+console.console.warn('your hair will fall out!');
